@@ -1,0 +1,212 @@
+{
+  "siteName": "Wrist Kaki",
+  "domain": "https://wristkaki.pages.dev",
+  "tagline": "Casio watches for Singapore wrists, with the fake-spotting built in.",
+  "description": "Casio watches that ship to Singapore, ranked by what people actually order and priced in S$. Real-world buying guides, a case size finder and no-nonsense fake-spotting tips.",
+  "contactEmail": "hello@example.com",
+  "currency": {
+    "code": "SGD",
+    "symbol": "S$",
+    "fxUsdFallback": 1.3
+  },
+  "perKeyword": 8,
+  "maxProducts": 45,
+  "hotCount": 6,
+  "minPrice": 20,
+  "articleVersion": "1",
+  "budgets": [
+    60,
+    150,
+    300
+  ],
+  "mustMatch": "casio|g-?shock|baby-?g|edifice|pro ?trek|sheen|oceanus|\\b(f-?91w|a168|w-?218|ga-?2100|dw-?5600|gmw-?b5000|mtp-?\\d+|ltp-?\\d+|mdv-?106)\\b",
+  "exclude": [
+    "replica",
+    "\\bfake\\b",
+    "clone",
+    "\\bcopy\\b",
+    "1:1",
+    "\\baaa\\b",
+    "inspired",
+    "look ?alike",
+    "g[- ]?style",
+    "shock ?style",
+    "style shock",
+    "casio style",
+    "skmei",
+    "sanda",
+    "synoke",
+    "ohsen",
+    "naviforce",
+    "weide",
+    "\\blige\\b",
+    "replacement",
+    "bezel",
+    "\\bcase (cover|for)",
+    "\\bcovers?\\b",
+    "protector",
+    "screen film",
+    "tempered",
+    "\\bbattery\\b",
+    "batteries",
+    "tool ?kit",
+    "spring ?bar",
+    "buckle",
+    "\\bfor casio\\b",
+    "\\bfor g-?shock\\b",
+    "compatible",
+    "fit for",
+    "suitable for",
+    "adapter",
+    "\\bparts?\\b",
+    "\\bmovement\\b",
+    "\\bdial only\\b",
+    "\\bmod\\b",
+    "\\bcustom\\b",
+    "^\\W*(casio )?(watch )?(straps?|bands?)\\b",
+    "\\b(watch )?(straps?|bands?) (for|fit|compatible|replacement)\\b",
+    "\\bwrist ?bands?\\b"
+  ],
+  "categories": [
+    {
+      "id": "digital",
+      "label": "Classic digitals",
+      "mood": "Cheap, tiny and somehow immortal",
+      "size": "Retro LCD",
+      "keywords": [
+        "casio digital watch",
+        "casio f-91w",
+        "casio a168",
+        "casio vintage digital watch"
+      ],
+      "title": "Best Casio Digital Watches in Singapore (S$)",
+      "h1": "Casio digital watches: the ones that never went out of style",
+      "intro": [
+        "A basic digital Casio has been showing the right time since before most of us were born, and it still costs less than a mall dinner. Light, slim, backlit and happy to be forgotten on your wrist, it is the easiest Casio to love.",
+        "Every pick ships to Singapore and is ranked by recent AliExpress orders. Classic models are also the most faked, so skim our [guide to spotting a fake Casio](/guides/how-to-spot-fake-casio-watch-aliexpress/) before you click."
+      ],
+      "faq": [
+        {
+          "q": "Is the Casio F-91W waterproof?",
+          "a": "Basic digitals are usually splash-resistant, not swim-ready. Check the water resistance rating in the listing, and read our [water resistance guide](/guides/casio-water-resistance-singapore-humidity/) before taking one near a pool."
+        },
+        {
+          "q": "Are classic Casio digitals good for small wrists?",
+          "a": "Many are slim and light, which helps. Compare the case size in the listing with our [case size finder](/tools/size/)."
+        }
+      ]
+    },
+    {
+      "id": "gshock",
+      "label": "G-Shock",
+      "mood": "Built to be dropped, sweated on and ignored",
+      "size": "Shock-resistant",
+      "keywords": [
+        "casio g-shock",
+        "g-shock ga-2100",
+        "g-shock dw-5600",
+        "g-shock men watch"
+      ],
+      "title": "Best Casio G-Shock Watches in Singapore (S$)",
+      "h1": "G-Shock watches: the toughest thing on your wrist, and the most counterfeited",
+      "intro": [
+        "G-Shocks are the watches people buy to stop worrying about their watch. They are also among the most faked Casios online, so the first job here is making sure the one you click on is real.",
+        "Picks below ship to Singapore and are ranked by recent orders. Not sure which model suits you? Our [G-Shock model comparison](/guides/g-shock-ga-2100-vs-dw-5600-vs-gmw-b5000/) covers the big three."
+      ],
+      "faq": [
+        {
+          "q": "Why are some G-Shocks so cheap on AliExpress?",
+          "a": "Sometimes it is a sale. Often it is a fake or a lookalike. If the price is far below what authorised retailers charge, read our [fake-spotting guide](/guides/how-to-spot-fake-casio-watch-aliexpress/) before buying."
+        },
+        {
+          "q": "Is a G-Shock good for swimming?",
+          "a": "Many are rated 200 m water resistant, but ratings differ by model. Check the listing and our [water resistance guide](/guides/casio-water-resistance-singapore-humidity/)."
+        }
+      ]
+    },
+    {
+      "id": "analog",
+      "label": "Analog & dress",
+      "mood": "Office, kopitiam, wedding",
+      "size": "Dress & daily",
+      "keywords": [
+        "casio analog watch men",
+        "casio mtp-1374",
+        "casio edifice",
+        "casio mtp watch"
+      ],
+      "title": "Best Casio Analog Watches in Singapore (S$)",
+      "h1": "Casio analog watches for people who have to look presentable",
+      "intro": [
+        "Not every Casio needs to survive a drop test. Analog models like the MTP line and Edifice are for desks, dinners and weddings, with a day-date window and a price that will not make your wallet file a complaint.",
+        "All picks ship to Singapore and are ranked by recent orders. See our [analog Casio guide](/guides/casio-analog-mtp-vs-edifice-singapore/) for how the lines differ."
+      ],
+      "faq": [
+        {
+          "q": "What is the difference between Casio MTP and Edifice?",
+          "a": "MTP models are simple, affordable dress and daily watches. Edifice is the sportier, more detailed line, often with chronographs. Our [analog guide](/guides/casio-analog-mtp-vs-edifice-singapore/) explains more."
+        },
+        {
+          "q": "Do Casio analog watches use sapphire crystal?",
+          "a": "Most budget models use mineral or resin glass. Some higher-end Edifice models use sapphire, so check the listing."
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "label": "Women's & Baby-G",
+      "mood": "Smaller cases, same toughness",
+      "size": "Slimmer cases",
+      "keywords": [
+        "casio baby-g",
+        "casio ladies watch",
+        "casio lw-203",
+        "casio sheen"
+      ],
+      "title": "Best Casio Watches for Women in Singapore (S$)",
+      "h1": "Casio watches for women and smaller wrists",
+      "intro": [
+        "Casio makes plenty for smaller wrists: Baby-G for the rugged side, slim digitals for daily wear, and dressier Sheen and analog models for work. The trick is matching case size to your wrist, not the label on the box.",
+        "Everything here ships to Singapore, ranked by recent orders. Use our [case size finder](/tools/size/) and read the [small wrist guide](/guides/best-casio-watches-for-small-wrists-singapore/) before you decide."
+      ],
+      "faq": [
+        {
+          "q": "What is the best Casio for small wrists?",
+          "a": "Look at case diameter and lug-to-lug length rather than gender labels. Our [case size finder](/tools/size/) gives a starting range."
+        },
+        {
+          "q": "Is Baby-G just a small G-Shock?",
+          "a": "Baby-G is built on the same shock-resistant idea with sizes and styles aimed at smaller wrists. Features vary by model, so read the listing."
+        }
+      ]
+    },
+    {
+      "id": "outdoor",
+      "label": "Dive, solar & outdoor",
+      "mood": "East Coast Park runs and weekend dives",
+      "size": "Dive, solar, trek",
+      "keywords": [
+        "casio duro mdv-106",
+        "casio pro trek",
+        "casio solar watch",
+        "casio g-shock solar"
+      ],
+      "title": "Best Casio Outdoor & Solar Watches in Singapore (S$)",
+      "h1": "Casio outdoor, solar and dive watches for Singapore weather",
+      "intro": [
+        "Singapore is hot, humid and sunny, which is basically a long exam for watches. Solar charging, serious water resistance and tougher builds make sense here, as long as the specs on the listing are real.",
+        "These picks ship to Singapore and are ranked by recent orders. Start with our guides on [solar vs battery](/guides/solar-vs-battery-casio-watches-singapore/) and [water resistance](/guides/casio-water-resistance-singapore-humidity/)."
+      ],
+      "faq": [
+        {
+          "q": "Does solar charging work indoors in Singapore?",
+          "a": "Solar models can charge from indoor light, but much more slowly than outdoors. Give them regular light exposure. See our [solar guide](/guides/solar-vs-battery-casio-watches-singapore/)."
+        },
+        {
+          "q": "Will radio-controlled Casios sync in Singapore?",
+          "a": "Radio time signals come from distant transmitters, so syncing may not work reliably here. Check Casio's coverage information before paying extra for it."
+        }
+      ]
+    }
+  ]
+}
